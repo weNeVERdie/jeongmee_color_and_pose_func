@@ -30,5 +30,5 @@ def _colorhist(img, r_x, r_y):
       if pixel_h <= color_range_end[i]:
         h_range = i
         break
-
-	return h_range
+	
+  return h_range
